@@ -2,7 +2,7 @@
 
 **Last updated: April 21, 2026**
 
-Focus Music AI ("we", "our", or "the app") respects your privacy. This policy explains what data we collect and how we use it.
+Ambience AI ("we", "our", or "the app") respects your privacy. This policy explains what data we collect and how we use it.
 
 ## Data We Collect
 
@@ -13,7 +13,7 @@ Focus Music AI ("we", "our", or "the app") respects your privacy. This policy ex
 - The text prompts you submit to generate music are sent to our servers and stored to track usage and deliver your sounds.
 
 ### Subscription Data
-- If you subscribe to Focus Music AI Premium, your purchase is processed by Apple. We use RevenueCat to manage subscription status. We do not have access to your payment details.
+- If you subscribe to Ambience AI Premium, your purchase is processed by Apple. We use RevenueCat to manage subscription status. We do not have access to your payment details.
 
 ### Device Data
 - We may collect basic device information (device model, OS version) for crash reporting and performance monitoring.
@@ -41,7 +41,7 @@ Focus Music AI ("we", "our", or "the app") respects your privacy. This policy ex
 
 ## Children's Privacy
 
-- Focus Music AI is not directed at children under 13. We do not knowingly collect data from children.
+- Ambience AI is not directed at children under 13. We do not knowingly collect data from children.
 
 ## Changes
 

@@ -1,6 +1,6 @@
-# Focus Music AI Support
+# Ambience AI Support
 
-Support and Privacy Policy for [Focus Music AI](https://apps.apple.com/app/id6762692135).
+Support and Privacy Policy for [Ambience AI](https://apps.apple.com/app/id6762692135).
 
 - [Privacy Policy](privacy.md)
 
